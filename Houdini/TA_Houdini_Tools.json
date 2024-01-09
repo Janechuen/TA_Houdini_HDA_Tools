@@ -1,0 +1,9 @@
+{
+
+        "hpath" :  "$TA_Houdini_Tools",
+        "env" : [
+                   { "PEGASUSDEMO" : "$TA_Houdini_Tools/Houdini/Packages/otls" },
+                   { "TA_Houdini_Tools" : "PATH TO PROEJCT PEGASUS FOLDER" }
+        ]
+
+}
